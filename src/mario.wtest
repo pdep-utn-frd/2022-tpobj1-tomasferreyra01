@@ -1,4 +1,4 @@
-import dino.*
+import mario.*
 
 
 test "pasa el tiempo" {

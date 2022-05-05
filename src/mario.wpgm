@@ -1,7 +1,7 @@
 import wollok.game.*
-import dino.* 
+import mario.* 
 
-program dino {
+program mario {
 
 	juego.configurar()
 	juego.iniciar()
