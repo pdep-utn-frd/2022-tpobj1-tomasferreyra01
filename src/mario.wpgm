@@ -1,7 +1,7 @@
 import wollok.game.*
 import mario.* 
 
-program mario {
+program mariob {
 
 	juego.configurar()
 	juego.iniciar()
